@@ -44,25 +44,9 @@ Facial-Emotion-Recognition-DeepFace-StreamLit-main/
 │── images/                # Sample images (optional)
 └── utils/                 # Additional helper functions (optional)
 
-📦 Installation
-1️⃣ Clone the repository
-git clone https://github.com/your-username/Facial-Emotion-Recognition-DeepFace-StreamLit-main.git
-cd Facial-Emotion-Recognition-DeepFace-StreamLit-main
-
-2️⃣ Install dependencies
-pip install -r requirements.txt
-
-3️⃣ Run the Streamlit App
-streamlit run app.py
-
 📸 Usage
-🔹 Option 1: Upload an Image
 
-Upload any photo containing a face.
-
-The app analyzes it and displays predicted emotions.
-
-🔹 Option 2: Use Live Webcam
+🔹 Option 1: Use Live Webcam
 
 Click on the “Use Webcam” option.
 
