@@ -1,0 +1,11 @@
+create virtual enviorement using >python -m venv venv
+activate it using >./venv/Scripts/activate.ps1
+
+install python 3.8.0
+unzip the folder near the c:/
+install the requirements.txt file ,if any issues then 
+
+python -m venv venv
+venv\Scripts\activate
+pip install --upgrade pip setuptools wheel
+pip install --prefer-binary -r requirements.txt
