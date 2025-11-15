@@ -1,5 +1,6 @@
 # Facial-Emotion-Recognition-DeepFace-StreamLit-main
 A real-time Facial Emotion Recognition (FER) web application built using DeepFace and Streamlit. The app detects human facial expressions from live webcam input and classifies them into emotional states such as Happy, Sad, Angry, Neutral, Surprise, Fear, and Disgust.
+
 🚀 Features
 
 🔍 Real-Time Emotion Detection using DeepFace
